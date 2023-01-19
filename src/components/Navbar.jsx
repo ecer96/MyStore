@@ -9,7 +9,7 @@ export default function Navbar() {
     return (
         <nav className="navbar navbar-expand-lg bg-white  py-3">
             <div className="container">
-                <NavLink className="navbar-brand fw-bold fs-4" to="/">
+                <NavLink className="navbar-brand fw-bold fs-4" to="/MyStore">
                     MY STORE
                 </NavLink>
                 <button
@@ -32,7 +32,7 @@ export default function Navbar() {
                             <NavLink
                                 className="nav-link"
                                 aria-current="page"
-                                to="/"
+                                to="/MyStore"
                             >
                                 Home
                             </NavLink>
