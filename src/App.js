@@ -15,7 +15,7 @@ function App() {
     return (
         <>
             <Navbar />
-            <Routes>
+            <Routes basename="/MyStore">
                 <Route path="/" element={<Home />} />
                 <Route path="/products" element={<Products />} />
                 <Route path="/products/:id" element={<Product />} />
