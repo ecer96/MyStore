@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ecer96/MyStore/static/css/main.84924b3a.css",
-    "main.js": "/ecer96/MyStore/static/js/main.66bbec2b.js",
+    "main.js": "/ecer96/MyStore/static/js/main.cc2e8697.js",
     "static/js/787.dcc73137.chunk.js": "/ecer96/MyStore/static/js/787.dcc73137.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/ecer96/MyStore/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/banner.jpg": "/ecer96/MyStore/static/media/banner.ec1dcc6ac57a010ce1e4.jpg",
@@ -11,11 +11,11 @@
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/ecer96/MyStore/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/ecer96/MyStore/index.html",
     "main.84924b3a.css.map": "/ecer96/MyStore/static/css/main.84924b3a.css.map",
-    "main.66bbec2b.js.map": "/ecer96/MyStore/static/js/main.66bbec2b.js.map",
+    "main.cc2e8697.js.map": "/ecer96/MyStore/static/js/main.cc2e8697.js.map",
     "787.dcc73137.chunk.js.map": "/ecer96/MyStore/static/js/787.dcc73137.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.84924b3a.css",
-    "static/js/main.66bbec2b.js"
+    "static/js/main.cc2e8697.js"
   ]
 }
