@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/ecommerce/static/css/main.5f4248f1.css",
-    "main.js": "/ecommerce/static/js/main.8cfa7dde.js",
-    "static/js/787.dcc73137.chunk.js": "/ecommerce/static/js/787.dcc73137.chunk.js",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/ecommerce/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/banner.jpg": "/ecommerce/static/media/banner.ec1dcc6ac57a010ce1e4.jpg",
-    "static/media/fontawesome-webfont.eot": "/ecommerce/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/ecommerce/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/ecommerce/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/ecommerce/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "index.html": "/ecommerce/index.html",
-    "main.5f4248f1.css.map": "/ecommerce/static/css/main.5f4248f1.css.map",
-    "main.8cfa7dde.js.map": "/ecommerce/static/js/main.8cfa7dde.js.map",
-    "787.dcc73137.chunk.js.map": "/ecommerce/static/js/787.dcc73137.chunk.js.map"
+    "main.css": "/MyStore/static/css/main.7558de84.css",
+    "main.js": "/MyStore/static/js/main.252b261c.js",
+    "static/js/787.dcc73137.chunk.js": "/MyStore/static/js/787.dcc73137.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/MyStore/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/banner.jpg": "/MyStore/static/media/banner.ec1dcc6ac57a010ce1e4.jpg",
+    "static/media/fontawesome-webfont.eot": "/MyStore/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/MyStore/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/MyStore/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/MyStore/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/MyStore/index.html",
+    "main.7558de84.css.map": "/MyStore/static/css/main.7558de84.css.map",
+    "main.252b261c.js.map": "/MyStore/static/js/main.252b261c.js.map",
+    "787.dcc73137.chunk.js.map": "/MyStore/static/js/787.dcc73137.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f4248f1.css",
-    "static/js/main.8cfa7dde.js"
+    "static/css/main.7558de84.css",
+    "static/js/main.252b261c.js"
   ]
 }
