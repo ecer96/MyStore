@@ -41,8 +41,8 @@ export const Cart = () => {
                 />
               </div>
               <div className="col-md-4">
-                <h3>{product.title}</h3>
-                <p className="lead fw-bold">
+                <h3 className="fs-4">{product.title}</h3>
+                <p className="lead fw-semibold fs-6">
                   {product.qty} X ${product.price} = $
                   {product.qty * product.price}
 
@@ -50,13 +50,13 @@ export const Cart = () => {
                 
                 
                 <button
-                  className="btn btn-outline-dark me-4"
+                  className="btn btn-outline-warning text-dark me-4 px-2 py-0 fs-6"
                   onClick={() => handleDel(product)}
                 >
                   <i className="fa fa-minus"></i>
                 </button>
                 <button
-                  className="btn btn-outline-dark"
+                  className="btn btn-outline-warning text-dark px-2 py-0 fs-6"
                   onClick={() => handleAdd(product)}
                 >
                   <i className="fa fa-plus"></i>

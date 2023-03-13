@@ -5,12 +5,12 @@ import { Products } from "./Products";
 export const Home = () => {
     return (
         <div className="container-fluid">
-            <div className="card text-bg-dark border-0 w-100">
+            <div className="card text-bg-dark border-0 ">
                 <img
                     src={require("../assets/banner.jpg")}
-                    className="card-image"
+                    className="card-image object-cover "
                     alt="..."
-                    height="550px"
+
                 />
                 <div className="card-img-overlay">
                     <div className="container"></div>
