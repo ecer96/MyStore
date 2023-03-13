@@ -1,6 +1,6 @@
 {
-"homepage": "https://ecer96.github.io/ecommerce",
-  "name": "ecommerce",
+"homepage": "https://ecer96.github.io/MyStore",
+  "name": "mystore",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
