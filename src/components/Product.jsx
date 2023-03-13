@@ -25,13 +25,11 @@ export const Product = () => {
             setLoading(false);
         };
         getProduct();
-    }, []);
+    }, [id]); // add id to dependency array
 
     const Loading = () => {
         return (
-        
               <h1>Loading ....</h1>
-            
         );
     };
 

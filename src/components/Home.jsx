@@ -10,6 +10,7 @@ export const Home = () => {
                     src={require("../assets/banner.jpg")}
                     className="card-image object-cover "
                     alt="..."
+                    style={{maxHeight:'450px','objectFit':'cover'}}
 
                 />
                 <div className="card-img-overlay">
